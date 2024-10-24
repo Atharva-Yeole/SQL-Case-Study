@@ -6,7 +6,7 @@ These queries are designed for various operations like data manipulation and agg
 ### 1) Employee DataBase.sql
 This file contains SQL commands to create an employee management system.
 
-Tables: Employees,Departments,Job Titles
+Tables: Employees, Departments, Job Titles
 
 Features: Create and manage employee information.
 Track job titles, departments, and employee salaries.
